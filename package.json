@@ -22,7 +22,7 @@
   "dependencies": {
     "if-env": "^1.0.4",
     "dotenv": "^8.0.0",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "mongoose": "^5.5.7"
   },
   "engines": {
